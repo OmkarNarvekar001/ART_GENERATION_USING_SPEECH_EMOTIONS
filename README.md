@@ -6,3 +6,5 @@ The approach used here is convolutional VQGAN to learn a codebook of context-ric
 The input speech is classified into 8 different emotions using MLP classifier trained of RAVDESS emotional speech audio dataset and this acts as a base filter for the VQGAN model. Text converted from speech plays an important role in producing the final output image using CLIP model. VQGAN+CLIP model together utilizes both emotions and text to generate a more personalized artwork.
 
 Group members- Rishabh Patil, Omkar Narvekar, Bhagawatiraj Yadav
+
+Publication -https://link.springer.com/chapter/10.1007/978-981-99-1588-0_24
